@@ -62,7 +62,7 @@ The following are the major dependencies that have been used in this project:
 1.Clone this repository to your local machine.
 
 ```bash
-  git clone https://github.com/RBZAHEER/linkup.git
+    git clone https://github.com/RBZAHEER/linkup.git
 ```
 
 2.Go to the project directory
